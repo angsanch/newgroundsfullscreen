@@ -1,4 +1,4 @@
-# Newgrounds Fullscreen
+# [Newgrounds Fullscreen](https://addons.mozilla.org/firefox/addon/newgrounds-fullscreen/)
 
 Browser extension that allows to play Newgrounds games in full screen in a standard way.
 
